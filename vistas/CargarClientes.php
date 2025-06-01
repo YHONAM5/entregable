@@ -13,8 +13,10 @@
 
         <section class="actions-section">
             <!--<a href="index.php?accion=formulario" class="btn btn-primary">Registrar nuevo cliente</a>-->
+            <a href="index.php" class="btn btn-primary">🏚️Inicio</a>
             <a href="index.php?entidad=cliente&accion=mostrarFormularioRegistro" class="btn btn-primary">Registrar nuevo cliente</a>
             <a href="../reportes/ReporteClientes.php" class="btn btn-secondary">realizar reporte</a>
+            
         </section>
 
         <section class="table-section">

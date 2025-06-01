@@ -12,6 +12,7 @@
         </header>
 
         <section class="actions-section">
+            <a href="index.php" class="btn btn-primary">🏚️Inicio</a>
             <a href="reportes/ReporteUsuarios.php" target="_blank" class="btn btn-secondary">Exportar PDF</a>
         </section>
 

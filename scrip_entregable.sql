@@ -11,7 +11,7 @@ CREATE TABLE usuarios (
     nombre VARCHAR(50) NOT NULL,
     apellido VARCHAR(50)NOT NULL,
     rol VARCHAR (50) DEFAULT 'Empleado',
-    fecha_registro  TIMESTAMP DEFusuariosAULT CURRENT_TIMESTAMP,
+    fecha_registro  TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     ultimo_login DATETIME DEFAULT '2000-01-01 20:45:00',
     activo TINYINT(1) DEFAULT 1
     

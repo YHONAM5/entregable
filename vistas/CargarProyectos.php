@@ -12,6 +12,7 @@
         </header>
 
         <section class="actions-section">
+            <a href="index.php" class="btn btn-primary">🏚️Inicio</a>
             <a href="index.php?entidad=proyecto&accion=mostrarFormularioRegistro" class="btn btn-primary">Registrar nuevo proyecto</a>
         </section>
 
